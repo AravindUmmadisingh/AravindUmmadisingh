@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating websites and learn web development 
 - 🌱 I’m currently learning web development and python, Artificial Intelligence 
 - 💞️ I’m looking to collaborate on python developer and web developer 
-- 📫 How to reach me at any time : This is my LinkedIn profile :-  https://www.linkedin.com/in/aravind-ummadisingh
+- 📫 How to reach me at any time : This is my LinkedIn profile :-  https://www.linkedin.com/in/aravind-ummadisingh-657b9826a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
