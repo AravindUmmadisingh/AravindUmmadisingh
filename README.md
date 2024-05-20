@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AravindUmmadisingh
-- 👀 I’m interested in creating websites 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aravind Ummadisingh
+- 👀 I’m interested in creating websites and learn web development 
+- 🌱 I’m currently learning web development and python, Artificial Intelligence 
+- 💞️ I’m looking to collaborate on python developer and web developer 
+- 📫 How to reach me at any time : This is my LinkedIn profile :-  https://www.linkedin.com/in/aravind-ummadisingh
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
