@@ -23,7 +23,7 @@ if __name__ == "__main__":
     while True:
         try: 
             user_input = input("You: ")
-            if user_input.lower() in ["exit", "quit", "bye"]
+            if user_input.lower() in ["exit", "quit", "bye"]:
                 print("ExampleBot: GoodBye!")
                 break
             response = get_response(user_input)
